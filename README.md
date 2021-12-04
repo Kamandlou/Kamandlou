@@ -32,3 +32,6 @@
 <a href="https://www.linux.org/">
 <img src="https://img.shields.io/badge/-linux-323330?style=for-the-badge&logo=linux&logoColor=fff">
 </a>
+<a href="https://wordpress.org/">
+<img src="https://img.shields.io/badge/WORDPRESS-gray?style=for-the-badge&logo=wordpress&logoColor=white">
+</a>

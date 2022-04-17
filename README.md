@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamandlou" alt="kamandlou" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/kamandlouu" target="blank"><img src="https://img.shields.io/twitter/follow/kamandlouu?logo=twitter&style=for-the-badge" alt="kamandlouu" /></a> </p>
-
 - 🌱 I’m currently learning **golang**
 
 <h3 align="left">Connect with me:</h3>

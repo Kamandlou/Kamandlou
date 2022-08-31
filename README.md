@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamandlou&label=Profile%20views&color=0e75b6&style=flat" alt="kamandlou" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamandlou" alt="kamandlou" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/a_kamandlou" target="blank"><img src="https://img.shields.io/twitter/follow/a_kamandlou?logo=twitter&style=for-the-badge" alt="a_kamandlou" /></a> </p>
 
 - 🌱 I’m currently learning **Golang**

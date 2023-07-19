@@ -1,6 +1,3 @@
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kamandlou&label=Profile%20views&color=0e75b6&style=flat" alt="kamandlou" /> </p>
-
 🌱 I’m currently learning **DevOps**
 
 <p>&nbsp;<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kamandlou" alt="Kamandlou" /></p>
